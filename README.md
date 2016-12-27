@@ -40,5 +40,9 @@ protected override void OnCreate(Bundle bundle)
 ## Reference
 * [Binding an .AAR][1]
 
+## Blog
+[How to Use Android AAR File in Xamarin Project][2]
+
 [0]:http://www.dynamsoft.com/Downloads/Dynamic-Barcode-Reader-Download.aspx
 [1]:https://developer.xamarin.com/guides/android/advanced_topics/binding-a-java-library/binding-an-aar/
+[2]:http://www.codepool.biz/xamarin-use-android-aar-file.html
